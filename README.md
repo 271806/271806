@@ -3,7 +3,7 @@
 - I am supervised by and mainly collaborate with Prof. Takeo Igarashi.
 - I am currenlty working/studying on Computer Graphics.
 - I love Human-Computer Interaction as well, which I've experienced on Autonomous Cars and Mixed Reality researches before.
-- ♡
+  ♡
 - My favorite band is Queen and one of my favorite songs is *Somebody to love* & *I’m in Love With My Car* 🛻
 
 
