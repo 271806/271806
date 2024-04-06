@@ -1,6 +1,6 @@
 ### Hi and wish you and me best luck 🌠
-🐈‍⬛ I am a Ph.D. student at department of Information Science and Technology, The University of Tokyo 🏫. Located in Tokyo.  
-🐈‍⬛ I am supervised by and mainly collaborate with Prof. Takeo Igarashi.  
+🐈‍⬛ I am a **Ph.D. student** at department of Information Science and Technology, **The University of Tokyo** 🏫. 
+🐈‍⬛ I am supervised by and mainly collaborate with **Prof. Takeo Igarashi**.  
 🐈‍⬛ I am currenlty working/studying on **Computer Graphics** and **Mixed Reality**.   
 🐈‍⬛ I love Human-Computer Interaction as well, which I've experienced on Autonomous Cars and Mixed Reality researches before.     
 🐈‍⬛ ♡   
