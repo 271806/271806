@@ -7,6 +7,7 @@
 🎵 My favorite band is **Queen** and one of my favorite songs is *Somebody to love* & *I’m in Love With My Car* 🛻  
 🎮 My favorite video game is Baldur's Gate 3 and Divinity: Original Sin II, both from Larian Studios.
 🎮 The first PC video game I played is the Left4Dead by Valve.
+📺 My favorite TV series is **Breaking Bad** and **Better Call Soul**, also **Stranger Things**.
 
 <!--
 **271806/271806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
