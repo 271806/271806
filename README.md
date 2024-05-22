@@ -8,7 +8,6 @@
 🎮 My favorite video game is **Baldur's Gate 3** and **Divinity: Original Sin II**, both from *Larian Studios*.  
 🎮 The first PC video game I played is the **Left 4 Dead** by Valve.  
 📺 My favorite TV series is **Breaking Bad** and **Better Call Soul**, also **Stranger Things**.
-tessssss ------
 
 <!--
 **271806/271806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
