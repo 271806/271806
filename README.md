@@ -2,7 +2,7 @@
 🐈‍⬛ I am a **Ph.D. student** at department of Information Science and Technology, **The University of Tokyo** 🏫.    
 🐈‍⬛ I am supervised by and mainly collaborate with **Prof. Takeo Igarashi**.  
 🐈‍⬛ I study **Computer Graphics**.   
-🐈‍⬛ I love Human-Computer Interaction as well, which I've experienced on Autonomous Cars and Mixed Reality researches before.     
+🐈‍⬛ I interested in Human-Computer Interaction as well, which I've experienced on Autonomous Cars and Mixed Reality researches before.     
 🐈‍⬛ ♡     
 🎵 My favorite band is **Queen** and one of my favorite songs is *Somebody to love* & *I’m in Love With My Car* 🛻  
 🎮 My favorite video game is **Baldur's Gate 3** and **Divinity: Original Sin II**, both from *Larian Studios*.  
