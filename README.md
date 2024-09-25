@@ -1,4 +1,4 @@
-### Hi and wish you and me best luck 🌠
+### Hi 🌠
 🐈‍⬛ I am a **Ph.D. student** at department of Information Science and Technology, **The University of Tokyo** 🏫.    
 🐈‍⬛ I am supervised by and mainly collaborate with **Prof. Takeo Igarashi**.  
 🐈‍⬛ I study **Computer Graphics**.   
