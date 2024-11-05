@@ -1,5 +1,7 @@
 ### Hi 
-🐈‍⬛ I am a **Ph.D. student** at department of Information Science and Technology, **The University of Tokyo** 🏫.    
+🐈‍⬛ I am a **Ph.D. student** at department of Information Science and Technology, **The University of Tokyo** 🏫.  
+
+I love the year of **1986**.
 
 <!--
 **271806/271806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
