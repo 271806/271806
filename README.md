@@ -3,6 +3,8 @@
 
 I love the year of **1986**. 
 
+My favorite researchers are Wenzel Jakob, Keenan Crane, Alec Jacobson, Patrick Schmidt and Nicholas Sharp. (In no particular order)
+
 <!--
 **271806/271806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
